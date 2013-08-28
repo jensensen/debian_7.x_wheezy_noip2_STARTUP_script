@@ -1,8 +1,8 @@
-debian_noip2.sh
-===============
+noip2 startup script for debian 7.x wheezy
+==========================================
 my v1.0
-
-This script can be used by admins using debian 7.x wheezy and no-ip if you want noip2 to run automatically when the machine is booted.
+-------
+This script can be used by admins using linux debian 7.x wheezy and no-ip if you want noip2 to run automatically when the machine is booted.
 Any other script even mentioned in the official README of noip-2.1.9-1 will fail and won't start the client.
 For example:
 http://www.noip.com/support/knowledgebase/installing-the-linux-dynamic-update-client/
